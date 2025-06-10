@@ -1,3 +1,4 @@
+[查看介绍页面](https://raw.githubusercontent.com/aitachi/QAintell/main/Introduction.html)
 ![image](https://github.com/user-attachments/assets/9c8bef82-5943-4d1c-8010-d1c4e197ef56)
 ![image](https://github.com/user-attachments/assets/939ec87b-3050-4668-8b64-7a7133820e7a)
 ![image](https://github.com/user-attachments/assets/718a446d-dd4b-4dd4-96c2-381b2dac855e)
